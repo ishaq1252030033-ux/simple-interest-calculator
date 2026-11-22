@@ -1,0 +1,10 @@
+PS C:\Users\ishaq\simple-interest-calculator> git checkout main
+Switched to branch 'main'
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+PS C:\Users\ishaq\simple-interest-calculator> git merge bug-fix-typo
+Updating e6564d2..0256c40
+Fast-forward
+ README.md | 4 ++++
+ 1 file changed, 4 insertions(+)
