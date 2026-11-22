@@ -1,0 +1,27 @@
+PS C:\Users\ishaq> curl.exe -sS "https://api.github.com/repos/ishaq1252030033-ux/mcino-Introduction-to-Git-and-GitHub/branches"
+[
+  {
+    "name": "bug-fix-revert",
+    "commit": {
+      "sha": "ad95b0abe521c61effc692e83d5babd5fbf25910",
+      "url": "https://api.github.com/repos/ishaq1252030033-ux/mcino-Introduction-to-Git-and-GitHub/commits/ad95b0abe521c61effc692e83d5babd5fbf25910"
+    },
+    "protected": false
+  },
+  {
+    "name": "bug-fix-revert-1",
+    "commit": {
+      "sha": "4218f786775ef6f8333ba26726d269e10083381a",
+      "url": "https://api.github.com/repos/ishaq1252030033-ux/mcino-Introduction-to-Git-and-GitHub/commits/4218f786775ef6f8333ba26726d269e10083381a"
+    },
+    "protected": false
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "ad95b0abe521c61effc692e83d5babd5fbf25910",
+      "url": "https://api.github.com/repos/ishaq1252030033-ux/mcino-Introduction-to-Git-and-GitHub/commits/ad95b0abe521c61effc692e83d5babd5fbf25910"
+    },
+    "protected": false
+  }
+]
